@@ -1,0 +1,46 @@
+[
+  {
+    "titleId": "1",
+    "title": "法术",
+    "items": [
+      { "itemId": "1", "name": "雷电法术", "enName": "Lightning Spell", "image": "Barbarian_King_info.png" },
+      { "itemId": "2", "name": "治疗法术", "enName": "Healing Spell", "image": "Barbarian_King_info.png" },
+      { "itemId": "3", "name": "狂暴法术", "enName": "Rage Spell", "image": "Barbarian_King_info.png" },
+      { "itemId": "4", "name": "弹跳法术", "enName": "Jump Spell", "image": "Barbarian_King_info.png" },
+      { "itemId": "5", "name": "冰冻法术", "enName": "Freeze Spell", "image": "Barbarian_King_info.png" },
+      { "itemId": "6", "name": "镜像法术", "enName": "Clone Spell", "image": "Barbarian_King_info.png" },
+      { "itemId": "7", "name": "隐形法术", "enName": "Invisibility Spell", "image": "Barbarian_King_info.png" },
+      { "itemId": "8", "name": "召回法术", "enName": "Recall Spell", "image": "Barbarian_King_info.png" },
+      { "itemId": "9", "name": "复苏法术", "enName": "Resurrection Spell", "image": "Barbarian_King_info.png" }
+    ]
+  },
+  {
+    "titleId": "2",
+    "title": "暗黑法术",
+    "items": [
+      { "itemId": "10", "name": "毒药法术", "enName": "Poison Spell", "image": "Barbarian_King_info.png" },
+      { "itemId": "11", "name": "地震法术", "enName": "Earthquake Spell", "image": "Barbarian_King_info.png" },
+      { "itemId": "12", "name": "急速法术", "enName": "Haste Spell", "image": "Barbarian_King_info.png" },
+      { "itemId": "13", "name": "骷髅法术", "enName": "Skeleton Spell", "image": "Barbarian_King_info.png" },
+      { "itemId": "14", "name": "蝙蝠法术", "enName": "Bat Spell", "image": "Barbarian_King_info.png" },
+      { "itemId": "15", "name": "疯狂复生法术", "enName": "Super Resurrection Spell", "image": "Barbarian_King_info.png" },
+      { "itemId": "16", "name": "冰障法术", "enName": "Ice Barrier Spell", "image": "Barbarian_King_info.png" }
+    ]
+  },
+  {
+    "titleId": "3",
+    "title": "军事建筑",
+    "items": [
+      { "itemId": "17", "name": "兵营", "enName": "Barracks", "image": "Barbarian_King_info.png" },
+      { "itemId": "18", "name": "训练营", "enName": "Training Camp", "image": "Barbarian_King_info.png" },
+      { "itemId": "19", "name": "暗黑训练营", "enName": "Dark Barracks", "image": "Barbarian_King_info.png" },
+      { "itemId": "20", "name": "实验室", "enName": "Laboratory", "image": "Barbarian_King_info.png" },
+      { "itemId": "21", "name": "法术工厂", "enName": "Spell Factory", "image": "Barbarian_King_info.png" },
+      { "itemId": "22", "name": "暗黑法术工厂", "enName": "Dark Spell Factory", "image": "Barbarian_King_info.png" },
+      { "itemId": "23", "name": "攻城机器", "enName": "Siege Machine", "image": "Barbarian_King_info.png" },
+      { "itemId": "24", "name": "战宠小屋", "enName": "Pet House", "image": "Barbarian_King_info.png" },
+      { "itemId": "25", "name": "铁匠铺", "enName": "Blacksmith", "image": "Barbarian_King_info.png" },
+      { "itemId": "26", "name": "英雄殿堂", "enName": "Hero Hall", "image": "Barbarian_King_info.png" }
+    ]
+  }
+]
